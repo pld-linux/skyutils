@@ -1,12 +1,12 @@
 Summary:	SkyUtils - a library of utility funkctions by Christophe Calmejane
 Summary(pl):	SkyUtils - biblioteka funkcji narzêdziowych Christophe'a Calmejane
 Name:		skyutils
-Version:	2.5
+Version:	2.6
 Release:	1
 License:	GPL
 Group:		Libraries
 Source0:	http://zekiller.skytech.org/fichiers/%{name}-%{version}.tar.gz
-# Source0-md5:	8edd6e5220283b6dd0a77080a1e06bee
+# Source0-md5:	ff04d28365ba9c18a1c5fdad41b5d4cc
 URL:		http://zekiller.skytech.org/coders_en.html
 BuildRequires:	autoconf
 BuildRequires:	automake
