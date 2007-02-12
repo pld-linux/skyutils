@@ -1,5 +1,5 @@
 Summary:	SkyUtils - a library of utility funkctions by Christophe Calmejane
-Summary(pl):	SkyUtils - biblioteka funkcji narzêdziowych Christophe'a Calmejane
+Summary(pl.UTF-8):   SkyUtils - biblioteka funkcji narzÄ™dziowych Christophe'a Calmejane
 Name:		skyutils
 Version:	2.9
 Release:	1
@@ -19,34 +19,34 @@ contains utility functions used in many projects by the same
 author. From chained list to HTTP protocol, you may find many
 useful functions.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka SkyUtils autorstwa Christophe'a Calmejane (Ze KiLleR /
-SkyTech) zawiera funkcje narzêdziowe u¿ywane w wielu projektach tego
-samego autora. Mo¿na znale¼æ tu wiele przydatnych funkcji, od listy do
-protoko³u HTTP.
+SkyTech) zawiera funkcje narzÄ™dziowe uÅ¼ywane w wielu projektach tego
+samego autora. MoÅ¼na znaleÅºÄ‡ tu wiele przydatnych funkcji, od listy do
+protokoÅ‚u HTTP.
 
 %package devel
 Summary:	Header files for SkyUtils library
-Summary(pl):	Pliki nag³ówkowe biblioteki SkyUtils
+Summary(pl.UTF-8):   Pliki nagÅ‚Ã³wkowe biblioteki SkyUtils
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 
 %description devel
 Header files for SkyUtils library.
 
-%description devel -l pl
-Pliki nag³ówkowe biblioteki SkyUtils.
+%description devel -l pl.UTF-8
+Pliki nagÅ‚Ã³wkowe biblioteki SkyUtils.
 
 %package static
 Summary:	Static version of SkyUtils library
-Summary(pl):	Statyczna wersja biblioteki SkyUtils
+Summary(pl.UTF-8):   Statyczna wersja biblioteki SkyUtils
 Group:		Development/Libraries
 Requires:	%{name}-devel = %{version}-%{release}
 
 %description static
 Static version of SkyUtils library.
 
-%description static -l pl
+%description static -l pl.UTF-8
 Statyczna wersja biblioteki SkyUtils.
 
 %prep
