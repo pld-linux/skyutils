@@ -1,5 +1,5 @@
 Summary:	SkyUtils - a library of utility funkctions by Christophe Calmejane
-Summary(pl.UTF-8):   SkyUtils - biblioteka funkcji narzędziowych Christophe'a Calmejane
+Summary(pl.UTF-8):	SkyUtils - biblioteka funkcji narzędziowych Christophe'a Calmejane
 Name:		skyutils
 Version:	2.9
 Release:	1
@@ -27,7 +27,7 @@ protokołu HTTP.
 
 %package devel
 Summary:	Header files for SkyUtils library
-Summary(pl.UTF-8):   Pliki nagłówkowe biblioteki SkyUtils
+Summary(pl.UTF-8):	Pliki nagłówkowe biblioteki SkyUtils
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 
@@ -39,7 +39,7 @@ Pliki nagłówkowe biblioteki SkyUtils.
 
 %package static
 Summary:	Static version of SkyUtils library
-Summary(pl.UTF-8):   Statyczna wersja biblioteki SkyUtils
+Summary(pl.UTF-8):	Statyczna wersja biblioteki SkyUtils
 Group:		Development/Libraries
 Requires:	%{name}-devel = %{version}-%{release}
 
